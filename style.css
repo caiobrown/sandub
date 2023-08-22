@@ -1,0 +1,25 @@
+.{  
+   margin: 0;
+   padding: 0;
+}
+
+body{
+    font-family: 'Poppins',sans-serif;
+}
+.cabecalho {background-color: black;
+  color: aliceblue(232, 239, 241);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 24px 0;
+}
+
+.cabecalho-img {
+    width: 20%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
